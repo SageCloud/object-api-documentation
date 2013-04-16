@@ -34,9 +34,9 @@
         xmlns:html="http://www.w3.org/1999/xhtml"
         xmlns:db="http://docbook.org/ns/docbook"
         version="5.0"
-    xml:id="openstack-object-storage-dev-guide">
+    xml:id="sagecloud-object-storage-dev-guide">
   <?rax pdf.url="../os-objectstorage-devguide-1.0.pdf"?>
-  <title>OpenStack Object Storage Developer Guide</title>
+  <title>SageCloud Object Storage Developer Guide</title>
   <info>
     <author>
       <personname>
@@ -44,18 +44,18 @@
         <surname/>
       </personname>
       <affiliation>
-        <orgname>OpenStack</orgname>
+        <orgname>SageCloud</orgname>
       </affiliation>
     </author>
     <copyright>
       <year>2010</year>
       <year>2011</year>
       <year>2012</year>
-      <holder>OpenStack, LLC</holder>
+      <holder>SageCloud Inc</holder>
     </copyright>
     <releaseinfo>API v1</releaseinfo>
-    <productname>OpenStack Object Storage</productname>
-    <pubdate>2012-09-04</pubdate>
+    <productname>SageCloud Object Storage</productname>
+    <pubdate>2013-04-15</pubdate>
     <legalnotice role="apache2">
       <annotation>
         <remark>Copyright details are filled in by the template.</remark>
@@ -64,7 +64,7 @@
     <abstract>
       <para> This document is intended for software
         developers interested in developing applications using the
-        OpenStack™ Object Storage Application Programming Interface
+        SageCloud™ Object Storage Application Programming Interface
           (<abbrev>API</abbrev>). </para>
     </abstract>   
     <revhistory>
@@ -118,7 +118,7 @@
         <revdescription>
           <itemizedlist spacing="compact">
             <listitem>
-              <para>Revised for OpenStack Object Storage use by removing CDN references, Rackspace Cloud references, and revised account examples and URLs for generic implementations.   It's not a changed requirement that Container and Object names are required to be UTF-8, but it's pointed out in the documentation.
+              <para>Revised for SageCloud Object Storage use by removing CDN references, Rackspace Cloud references, and revised account examples and URLs for generic implementations.   It's not a changed requirement that Container and Object names are required to be UTF-8, but it's pointed out in the documentation.
               </para>
             </listitem>
           </itemizedlist>
